@@ -9,7 +9,7 @@ Only Gen2 tests function with the current version of the [Evaluator software](ht
 
 ## Directly Related Work
 * [FAIR Metrics Group](http://www.fairmetrics.org/)
-* [Collection of FAIR Maturity Indicator on FAIRsharing](https://fairsharing.org/standards/?q=&selected_facets=type_exact:metric)
+* [Collection of FAIR Maturity Indicators on FAIRsharing](https://fairsharing.org/standards/?q=&selected_facets=type_exact:metric)
 
 ## Directly Related Publications
 * [Paper describing the metrics in this Git](https://doi.org/10.1038/sdata.2018.118)
